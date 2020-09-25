@@ -2,7 +2,7 @@
 public class j01_BasicProgram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println("~~~~~~~~~~Start of Test~~~~~~~~~~~~");
 		int i,j;
 		i=10;		
